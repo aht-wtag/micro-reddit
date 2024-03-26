@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is done under the project section of Odin's Project's Mirco Reddit. No frontend.
 
 Things you may want to cover:
 
-* Ruby version
+* Used postgresql
 
-* System dependencies
+* User can create multiple posts
 
-* Configuration
+* Posts can have many comments
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* A user can comment on another user's posts
