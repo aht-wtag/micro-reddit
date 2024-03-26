@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="4ab5f772-6e71-474c-85bd-a4ea77719be4" name="postgres@localhost Mapping">
+      <data-sources db="c1aa48da-e2b0-49f9-81dd-1ce0a5e95cb6" />
+      <scope>
+        <node kind="database">
+          <name qname="micro_reddit_development" />
+          <name qname="micro_reddit_test" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
