@@ -2,7 +2,7 @@
 
 This is done under the project section of Odin's Project's Mirco Reddit. No frontend.
 
-Things you may want to cover:
+Things that I wanted to implement:
 
 * Used postgresql
 
